@@ -1,0 +1,10 @@
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\bin\Debug\Bolum-3-Encapsulation.exe.config
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\bin\Debug\Bolum-3-Encapsulation.exe
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\bin\Debug\Bolum-3-Encapsulation.pdb
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum-3-Encapsulation.csprojAssemblyReference.cache
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum_3_Encapsulation.Form1.resources
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum_3_Encapsulation.Properties.Resources.resources
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum-3-Encapsulation.csproj.GenerateResource.cache
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum-3-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum-3-Encapsulation.exe
+C:\Users\YazılımFikirleri\Desktop\Github\OOP\OOP-Bolum-3-Encapsulation\Bolum-3-Encapsulation\Bolum-3-Encapsulation\obj\Debug\Bolum-3-Encapsulation.pdb
